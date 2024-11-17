@@ -1,0 +1,16 @@
+map_change_node:
+  ros__parameters: 
+    change_point_id: 6
+    pcd_path: "/home/shugo/pcd/5th_ex_outdoor_2-2.pcd"
+    map_path: "/home/shugo/3dnav_ws/src/kuams_navigation/maps/outdoor_5th_ex.yaml"
+
+    set_initial_pose: true
+    
+    initial_pose_x: 0.0
+    initial_pose_y: 0.0
+    initial_pose_z: 0.0
+    initial_pose_qx: 0.0
+    initial_pose_qy: 0.0
+    initial_pose_qz: 0.0
+    initial_pose_qw: 1.0
+    

@@ -1,0 +1,6 @@
+map_change_node:
+  ros__parameters: 
+    map_path: "/home/shugo/ros2_ws/src/map_changer/csv/maps/2024_atc.csv"
+    pose_path: "/home/shugo/ros2_ws/src/map_changer/csv/poses/2024_atc.csv"
+    start_number: 0
+    

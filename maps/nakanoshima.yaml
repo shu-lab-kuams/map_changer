@@ -1,0 +1,6 @@
+image: nakanoshima.pgm
+resolution: 0.1
+origin: [-111.347, -176.777, 0.0]
+occupied_thresh: 0.5
+free_thresh: 0.2
+negate: 0
