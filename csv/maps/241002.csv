@@ -1,0 +1,2 @@
+change_point_id,pcd_path,map_path,wait_time
+2,/home/shugo/pcd/20231208_edit.pcd,/home/shugo/3dnav_ws/src/kuams_navigation/maps/shulab.yaml,60

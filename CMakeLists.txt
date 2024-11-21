@@ -11,9 +11,11 @@ find_package(ament_cmake REQUIRED)
 find_package(rclcpp REQUIRED)
 find_package(std_msgs REQUIRED)
 find_package(nav2_msgs REQUIRED)
+find_package(nav_msgs REQUIRED)
 find_package(std_srvs REQUIRED)
 find_package(sensor_msgs REQUIRED)
 find_package(geometry_msgs REQUIRED)
+find_package(Boost REQUIRED)
 find_package(pcl_conversions REQUIRED)
 find_package(PCL REQUIRED COMPONENTS common io filters)
 
@@ -34,6 +36,7 @@ ament_target_dependencies(map_change_node
   std_msgs
   std_srvs
   nav2_msgs
+  nav_msgs
   rclcpp
   sensor_msgs
   geometry_msgs
